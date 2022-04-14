@@ -1,7 +1,7 @@
 #include <stdio>
 
 {
-	int a , b ;
-	int c= (a + b);
+	double a , b ;
+	double c= (a + b);
 	return 0;
 }
